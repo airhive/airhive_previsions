@@ -1,0 +1,8 @@
+﻿Legenda
+-999 Valore mancante o invalido
+
+Riepilogo estrazione
+Id_Stazione,Nome_Stazione,Id_Sensore,Nome_Sensore,Unita_Misura,Periodo_Dal,Periodo_Al,Operatore
+100,Milano Lambrate,2001,Temperatura,°C,2018/02/26 00:00,2019/02/26 00:00,Media
+100,Milano Lambrate,2002,Umidità Relativa,%,2018/02/26 00:00,2019/02/26 00:00,Media
+100,Milano Lambrate,2006,Precipitazione,mm,2018/02/26 00:00,2019/02/26 00:00,Cumulata

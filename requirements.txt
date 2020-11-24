@@ -1,0 +1,5 @@
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install tensorflow
+pip intall scikit-learn
